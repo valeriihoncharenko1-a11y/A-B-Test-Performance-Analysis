@@ -20,7 +20,7 @@ The test showed a decrease in begin_checkout by 2% and new_account by 3%. Recomm
 
 <img width="991" height="651" alt="image" src="https://github.com/user-attachments/assets/c368f7ac-b6e7-43f0-b10b-e848ce6b7a34" />
 
-**Link to Dashboard:** https://public.tableau.com/views/AudienceBehaviorSalesPerformance/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Link to Dashboard:**https://public.tableau.com/views/ABTestPerformanceSegmentAnalysis/ABTestPerformanceSegmentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Tech Stack:**
 SQL (BigQuery) – data extraction.
